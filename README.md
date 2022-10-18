@@ -1,3 +1,6 @@
-# data_science_stuff_ashwini_srinivasaprasad
+#ashwini_srinivasaprasad
 
-Data Science Project Portfolio
+#Data Science Project Portfolio
+
+
+#Project 1: Understanding Browser History Patterns
