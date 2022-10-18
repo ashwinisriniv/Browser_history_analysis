@@ -1,3 +1,3 @@
-# browser_history_analysis
+# data_science_stuff_ashwini_srinivasaprasad
 
-Understanding my browser history patterns
+Data Science Project Portfolio
